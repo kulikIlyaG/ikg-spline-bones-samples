@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e7dcf426b5614d4dba3085092f140f04, type: 3}
-  m_Name: SmileBindingsData
+  m_Name: SlimeBindingsData
   m_EditorClassIdentifier: 
   _bindings:
-    _skeletonDefinition: {fileID: 11400000, guid: f58430c2f2e3d444d84a2abba9457516, type: 2}
+    _skeletonDefinition: {fileID: 11400000, guid: 6b08cd47928e2465ea06a64d1a4a0ef2, type: 2}
     _points:
     - _pointIndex: 0
       _bones:
