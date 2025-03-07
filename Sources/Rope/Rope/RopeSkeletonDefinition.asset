@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ef715176a4140d8853b5fb69e0cef39, type: 3}
+  m_Name: RopeSkeletonDefinition
+  m_EditorClassIdentifier: 
+  _bones:
+  - _worldPosition: {x: 52.319965, y: -7.640058}
+    _rotation: {x: 0, y: 0, z: 0, w: 0}
+    _guiColor: {r: 0.8081855, g: 0.807824, b: 0.8083054, a: 1}
+  - _worldPosition: {x: 52.324753, y: -8.16671}
+    _rotation: {x: 0, y: 0, z: 0, w: 0}
+    _guiColor: {r: 0.8626524, g: 0.8048522, b: 0.7540787, a: 1}
+  - _worldPosition: {x: 52.33912, y: -8.702938}
+    _rotation: {x: 0, y: 0, z: 0, w: 0}
+    _guiColor: {r: 0.8933425, g: 0.81465226, b: 0.66094655, a: 1}
+  - _worldPosition: {x: 52.319965, y: -9.172137}
+    _rotation: {x: 0, y: 0, z: 0, w: 0}
+    _guiColor: {r: 0.8404673, g: 0.8764531, b: 0.8391807, a: 1}
+  - _worldPosition: {x: 52.343906, y: -9.646125}
+    _rotation: {x: 0, y: 0, z: 0, w: 0}
+    _guiColor: {r: 0.8899026, g: 0.84686816, b: 0.71774095, a: 1}
+  - _worldPosition: {x: 52.32954, y: -10.172777}
+    _rotation: {x: 0, y: 0, z: 0, w: 0}
+    _guiColor: {r: 0.77144563, g: 0.80850244, b: 0.8874983, a: 1}
+  - _worldPosition: {x: 52.32954, y: -10.680278}
+    _rotation: {x: 0, y: 0, z: 0, w: 0}
+    _guiColor: {r: 0.8819405, g: 0.7215313, b: 0.7175066, a: 1}
+  - _worldPosition: {x: 52.319965, y: -11.168629}
+    _rotation: {x: 0, y: 0, z: 0, w: 0}
+    _guiColor: {r: 0.7741956, g: 0.7909469, b: 0.7924926, a: 1}
+  - _worldPosition: {x: 52.33433, y: -11.661766}
+    _rotation: {x: 0, y: 0, z: 0, w: 0}
+    _guiColor: {r: 0.7604585, g: 0.6919923, b: 0.7975799, a: 1}
+  - _worldPosition: {x: 52.343906, y: -12.183631}
+    _rotation: {x: 0, y: 0, z: 0, w: 0}
+    _guiColor: {r: 0.8729075, g: 0.89995813, b: 0.6836418, a: 1}
+  - _worldPosition: {x: 52.319965, y: -12.65283}
+    _rotation: {x: 0, y: 0, z: 0, w: 0}
+    _guiColor: {r: 0.7610703, g: 0.6510323, b: 0.7443757, a: 1}

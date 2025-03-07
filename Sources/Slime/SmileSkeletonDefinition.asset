@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ef715176a4140d8853b5fb69e0cef39, type: 3}
+  m_Name: SmileSkeletonDefinition
+  m_EditorClassIdentifier: 
+  _bones:
+  - _worldPosition: {x: -0.98509073, y: -1.0121334}
+    _rotation: {x: 0, y: 0, z: 0, w: 0}
+    _guiColor: {r: 0.8519793, g: 0.80499387, b: 0.81820536, a: 1}
+  - _worldPosition: {x: -1.3538997, y: -0.020711437}
+    _rotation: {x: 0, y: 0, z: 0, w: 0}
+    _guiColor: {r: 0.6890184, g: 0.77818644, b: 0.8980856, a: 1}
+  - _worldPosition: {x: -0.9969879, y: 1.0103674}
+    _rotation: {x: 0, y: 0, z: 0, w: 0}
+    _guiColor: {r: 0.6855047, g: 0.6797511, b: 0.65869445, a: 1}
+  - _worldPosition: {x: 0.0063311146, y: 1.3514166}
+    _rotation: {x: 0, y: 0, z: 0, w: 0}
+    _guiColor: {r: 0.69465536, g: 0.89103174, b: 0.84358627, a: 1}
+  - _worldPosition: {x: 1.0334442, y: 0.97864187}
+    _rotation: {x: 0, y: 0, z: 0, w: 0}
+    _guiColor: {r: 0.8058319, g: 0.70750195, b: 0.82360184, a: 1}
+  - _worldPosition: {x: 1.3586307, y: -0.028642818}
+    _rotation: {x: 0, y: 0, z: 0, w: 0}
+    _guiColor: {r: 0.88263685, g: 0.72386175, b: 0.77849317, a: 1}
+  - _worldPosition: {x: 1.0056845, y: -1.0081677}
+    _rotation: {x: 0, y: 0, z: 0, w: 0}
+    _guiColor: {r: 0.68680084, g: 0.8124354, b: 0.8823808, a: 1}
+  - _worldPosition: {x: 0.010296802, y: -1.3531826}
+    _rotation: {x: 0, y: 0, z: 0, w: 0}
+    _guiColor: {r: 0.81321895, g: 0.73222345, b: 0.71022284, a: 1}
