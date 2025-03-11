@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ef715176a4140d8853b5fb69e0cef39, type: 3}
+  m_Name: HeadSkeletonDefinition
+  m_EditorClassIdentifier: 
+  _bones:
+  - _worldPosition: {x: 0.008840799, y: -4.996682}
+    _rotation: {x: 0, y: 0, z: 0, w: 0}
+    _guiColor: {r: 0.86941695, g: 0.7111043, b: 0.69601417, a: 1}
+  - _worldPosition: {x: -4.994258, y: 0.0064168572}
+    _rotation: {x: 0, y: 0, z: 0, w: 0}
+    _guiColor: {r: 0.77100164, g: 0.8700348, b: 0.8670471, a: 1}
+  - _worldPosition: {x: 0.021906018, y: 5.0095134}
+    _rotation: {x: 0, y: 0, z: 0, w: 0}
+    _guiColor: {r: 0.847283, g: 0.8753251, b: 0.84234434, a: 1}
+  - _worldPosition: {x: 5.0119405, y: -0.0066471696}
+    _rotation: {x: 0, y: 0, z: 0, w: 0}
+    _guiColor: {r: 0.83754176, g: 0.78295785, b: 0.8329295, a: 1}

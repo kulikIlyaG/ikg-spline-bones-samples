@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ef715176a4140d8853b5fb69e0cef39, type: 3}
+  m_Name: MouthSkeletonDefinition
+  m_EditorClassIdentifier: 
+  _bones:
+  - _worldPosition: {x: 3.727084, y: -6.691485}
+    _rotation: {x: 0, y: 0, z: 0, w: 0}
+    _guiColor: {r: 0.7395321, g: 0.82440245, b: 0.87225974, a: 1}
+  - _worldPosition: {x: 1.6663215, y: -6.1611414}
+    _rotation: {x: 0, y: 0, z: 0, w: 0}
+    _guiColor: {r: 0.8983207, g: 0.6923311, b: 0.7146524, a: 1}
+  - _worldPosition: {x: 3.722033, y: -5.6813073}
+    _rotation: {x: 0, y: 0, z: 0, w: 0}
+    _guiColor: {r: 0.6526092, g: 0.69698644, b: 0.6589198, a: 1}
+  - _worldPosition: {x: 5.6868286, y: -6.1661925}
+    _rotation: {x: 0, y: 0, z: 0, w: 0}
+    _guiColor: {r: 0.8599876, g: 0.89393604, b: 0.8384261, a: 1}
